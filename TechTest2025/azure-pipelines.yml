@@ -8,7 +8,7 @@ variables:
   buildConfiguration: 'Release'
   dotnetVersion: '8.0.x'
   appName: 'TechTest2025' # Replace with your Azure App Service name
-  azureSubscription: 'Test1' # Replace with your Azure DevOps service connection name
+  azureSubscription: 'github.com_monkeywithspanner' # Replace with your Azure DevOps service connection name
 
 steps:
 - task: UseDotNet@2
